@@ -4,3 +4,6 @@ Emoji
 Type option
 colors
 vibrand
+
+Dark mode
+video calls
